@@ -1,2 +1,5 @@
-# machine-learning
-Machine Learning Projects
+# Collection of Machine Learning Projects
+
+<!--
+Add Source Reads and Inspiration 
+->
