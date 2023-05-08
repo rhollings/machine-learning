@@ -16,6 +16,8 @@
 
 <a href="https://www.kaggle.com/datasets" target="_blank">Kaggle Datasets</a>
 
+### Examples of ML Projects 
+<a href="https://github.com/features/copilot/" target="_blank">GitHub Copilot</a>
 
 <!--
 Add Source Reads and Inspiration 
